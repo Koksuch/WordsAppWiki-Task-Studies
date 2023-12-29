@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+  height: 100svh;
+  color: white;
+}
+
+#root {
+  height: 100%;
+}
+
+svg path {
+  @apply fill-zinc-600 transition-colors;
+}
+
+a:hover svg path,
+a:focus svg path {
+  @apply fill-slate-400;
+}
