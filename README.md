@@ -1,7 +1,7 @@
 # WordsApp Wiki
 
-[Demo strony](https://curious-longma-096ceb.netlify.app/)
+[Live Demo](https://curious-longma-096ceb.netlify.app/)
 
-Strona została stworzona w ramach zadania na przedmiot programowanie aplikacji graficznych. Zadanie polegało na stworzeniu UI dowolnej strony typu "wiki" posiadającej pasek wyszukiwania po kliknięciu, którego zostanie wyświetlony element "ładowanie" stworzony w html canvas.
+The site was created as part of an assignment in college. The assignment was to create a UI of any “wiki” type page having a search bar when clicked, which would display a “loading” element created in html canvas.
 
-Zamysłem aplikacji WordsApp była strona wiki na której możemy wyszukać definicje oraz synonimy danego słowa. Aktualnie wystarczyłoby podpiąć odpowiednie api aby strona była w pełni funkcjonalna. Niestety nie udało mi się znaleźć żadnego w pełni darmowego api które by to zapewniało.
+The idea behind WordsApp was a wiki page where we can search for definitions and synonyms of a word. Currently, it would be enough to plug in the appropriate api to make the page fully functional. Unfortunately, I have not been able to find any fully free api that would provide this.
